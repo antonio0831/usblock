@@ -1,4 +1,4 @@
-# USB Auto Unlock
+# USB Auto Lock
 This program allows you to choose a USB drive (or any other hardware), and when you remove it, it will lock your computer
 
 Written in python
