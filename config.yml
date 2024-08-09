@@ -1,0 +1,4 @@
+log_interval: 300
+max_lockout: 0
+usb_id: 'USBSTOR\Disk&Ven_VendorCo&Prod_ProductCode&Rev_2.00\7562711190870513235&0'
+watchdog_interval: 1
