@@ -8,3 +8,6 @@ Written in python
 Note: This can also work on disabled devices because it identifies the device via its unique identifier.
 
 *Crappy Implementation*
+
+
+**Planning on a linux ver btw**
